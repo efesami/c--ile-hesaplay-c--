@@ -1,0 +1,11 @@
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\bin\Debug\WindowsFormsApp6AALIŞTIRMA.exe.config
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\bin\Debug\WindowsFormsApp6AALIŞTIRMA.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\bin\Debug\WindowsFormsApp6AALIŞTIRMA.pdb
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.csproj.AssemblyReference.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.Form1.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.Properties.Resources.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.csproj.GenerateResource.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.csproj.CoreCompileInputs.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp6AALIŞTIRMA\WindowsFormsApp6AALIŞTIRMA\obj\Debug\WindowsFormsApp6AALIŞTIRMA.pdb
